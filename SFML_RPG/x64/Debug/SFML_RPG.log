@@ -1,0 +1,22 @@
+﻿  App.cpp
+c:\users\kristian\source\repos\sfml_rpg\sfml_rpg\app.cpp(31): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Tile.cpp
+  TextureLoader.cpp
+  TestEnemy.cpp
+  SaveLevelPanel.cpp
+  Player.cpp
+  NetworkManager.cpp
+  MenuState.cpp
+  Log.cpp
+  LevelManager.cpp
+  LevelEditorState.cpp
+  LevelEditorSidePanel.cpp
+  Level.cpp
+  GameState.cpp
+  DefaultSwordSlashHitbox.cpp
+  Camera.cpp
+  Button.cpp
+  BaseEnemy.cpp
+  SFML_RPG.vcxproj -> C:\Users\Kristian\source\repos\SFML_RPG\x64\Debug\SFML_RPG.exe
